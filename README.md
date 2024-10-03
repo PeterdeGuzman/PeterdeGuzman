@@ -3,7 +3,8 @@
 ### 📫 Please reach out to me at peter.deguzman@duke.edu!
 
 
-### 🔭 I’m currently working on:
+### 🔭 I’m currently working on:  
+      - A project analyzing the impacts of local institutions and the built environment on political participation by manipulating geospatial data with SQL and Python
 ### 🌱 I’m currently learning:
 ### 👯 I’m looking to collaborate on:
 
