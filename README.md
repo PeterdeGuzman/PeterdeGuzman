@@ -14,7 +14,7 @@
 ### 👯 I’m looking to collaborate on:
 
 ### :notebook: My previous experiences:
-- I spent five years as a Researcher and Data Analyst at the Center for Information & Research on Civic Learning and Engagement (CIRCLE) at the Jonathan M. Tisch College of Civic Life. At CIRCLE, I evaluated non-partisan voter registration campaigns using R and Tableau to inform non-profit investment. I also designed national surveys on youth political attitudes and political participation.
+- I spent five years as a Researcher and Data Analyst at the Center for Information & Research on Civic Learning and Engagement (CIRCLE) at the Jonathan M. Tisch College of Civic Life. At CIRCLE, I evaluated non-partisan voter registration campaigns using R and Tableau to inform non-profit investment. I also designed national surveys to investigate youth political attitudes and political participation among American youth.
 - Prior to getting involved in research, I led a non-partisan voter education initiative to engage college students at Tufts University. 
 
 ### 💬 Ask me about:
