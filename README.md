@@ -11,7 +11,7 @@
 - Rust
 - Data Engineering and DevOps (Creating ETL workflows, implementing CI/CD pipelines, utilizing GitHub Actions)
 - Statistical Modeling in R 
-### 👯 I’m looking to collaborate on:
+### 🛠️ I’m looking to collaborate on:
 
 ### :notebook: My previous experiences:
 - I spent five years as a Researcher and Data Analyst at the Center for Information & Research on Civic Learning and Engagement (CIRCLE) at the Jonathan M. Tisch College of Civic Life. At CIRCLE, I evaluated non-partisan voter registration campaigns using R and Tableau to inform non-profit investment. I also designed national surveys to investigate youth political attitudes and political participation among American youth.
