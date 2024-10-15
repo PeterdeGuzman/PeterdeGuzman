@@ -20,6 +20,6 @@
 ### 💬 Ask me about:
 
 - ⚡ Fun facts:
-  - My undergraduate majors were Mandarin Chinese Language & Literature and International Relations! I love to connect with others over travel, food, the outdoors.
-  - I also am a huge rugby union fan and still play locally in my area. I also support the Baltimore Ravens and Baltimore Orioles!
+  - My undergraduate majors were Mandarin Chinese Language & Literature and International Relations! I've spent time working and studying in Hangzhou, Beijing, and Xi'an. I love to connect with others over travel, food, the outdoors.
+  - I am a huge rugby union fan and still play locally in my area. I also support the Baltimore Ravens and Baltimore Orioles!
 
