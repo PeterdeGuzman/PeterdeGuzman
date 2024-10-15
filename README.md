@@ -10,7 +10,7 @@
 - SQL (and integration with Databricks and AWS)
 - Rust
 - Data Engineering and DevOps (Creating ETL workflows, implementing CI/CD pipelines, utilizing GitHub Actions)
-- Statistical Modeling in R (tidyverse, multiple linear regression, t-tests and A/B testing)
+- Statistical Modeling in R (tidyverse, multiple linear regression, t-tests, and A/B testing)
 ### 🛠️ I’m looking to collaborate on:
 
 ### :notebook: My previous experiences:
