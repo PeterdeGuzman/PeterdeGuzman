@@ -8,7 +8,8 @@
 ### 🌱 I’m currently learning:
 - Python (pandas, matplotlib, seaborn, manipulating GIS data with GeoPandas)
 - SQL (and integration with Databricks and AWS)
-- DevOps (Creating ETL workflows, implementing CI/CD pipelines)
+- Rust
+- Data Engineering and DevOps (Creating ETL workflows, implementing CI/CD pipelines, utilizing GitHub Actions)
 ### 👯 I’m looking to collaborate on:
 
 ### :notebook: My previous experiences:
