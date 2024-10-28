@@ -3,7 +3,7 @@
 ### 📫 Please reach out to me at peter.deguzman@duke.edu!
 
 ### 🔭 I’m currently working on:  
-- A project analyzing the impacts of local institutions and the built environment on political participation by manipulating geospatial data with SQL and Python
+- A project analyzing the impacts of local institutions and the built environment on political participation by manipulating geospatial data with SQL, Python, and Rust
 - I'm currently taking courses on Data Engineering Systems, Data Analytics with Python, Statistical Modeling and Data Visualization, and Alternative Data. 
 ### 🌱 I’m currently learning:
 - Python (pandas, matplotlib, seaborn, statsmodels, manipulating GIS data with GeoPandas)
