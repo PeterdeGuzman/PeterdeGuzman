@@ -19,7 +19,7 @@ I am a current Master's in Data Science graduate student at Duke University seek
 - I spent five years as a Researcher and Data Analyst at the Center for Information & Research on Civic Learning and Engagement (CIRCLE) at the Jonathan M. Tisch College of Civic Life. At CIRCLE, I evaluated non-partisan voter registration campaigns using R and Tableau to inform non-profit investment. I also designed national surveys to investigate youth political attitudes and political participation among American youth.
 - Prior to getting involved in research, I led a non-partisan voter education initiative to engage college students at Tufts University. I have also led outdoor leadership and backpacking programs for youth in New England.  
 
-- ⚡ Fun facts:
+### ⚡ Fun facts:
   - My undergraduate majors were Mandarin Chinese Language & Literature and International Relations! I've spent time working and studying in Hangzhou, Beijing, and Xi'an. I love to connect with others over travel, food, the outdoors.
   - I am a huge rugby union fan and still play locally in my area. I also support the Baltimore Ravens and Baltimore Orioles!
 
