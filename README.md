@@ -2,12 +2,12 @@
 
 ### 📫 Please reach out to me at peter.deguzman@duke.edu!
 
-I am a current Master's in Data Science graduate student at Duke University seeking an internship for Summer 2025.
+I am a current Master's in Data Science graduate student at Duke University.
 
 ### 🔭 I’m currently working on:  
 - A book project with the Department of Political Science analyzing social media data on emerging trends in youth political participation and political polarization 
-- A project analyzing the impacts of local institutions and the built environment on political participation by manipulating geospatial data with SQL, Python, and Rust
-- I'm currently taking courses on Data Engineering Systems, Data Analytics with Python, Statistical Modeling and Data Visualization, and Alternative Data. 
+- A project analyzing potential interventions to alleviate food insecurity among young people in North Carolina.
+- I'm currently taking courses on Natural Language Processing and Data Visualization.
 ### 🌱 I’m currently learning:
 - Python (pandas, matplotlib, seaborn, statsmodels, manipulating GIS data with GeoPandas)
 - SQL (and integration with Databricks and AWS)
