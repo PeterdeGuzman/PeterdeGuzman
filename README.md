@@ -5,7 +5,7 @@
 I am a current Master's in Data Science graduate student at Duke University.
 
 ### 🔭 I’m currently working on:  
-- A book project with the Department of Political Science analyzing social media data on emerging trends in youth political participation and political polarization 
+- An article with the Department of Political Science analyzing social media data on emerging trends in youth political participation and political polarization 
 - A project analyzing potential interventions to alleviate food insecurity among young people in North Carolina.
 - I'm currently taking courses on Natural Language Processing and Data Visualization.
 ### 🌱 I’m currently learning:
@@ -21,5 +21,5 @@ I am a current Master's in Data Science graduate student at Duke University.
 
 ### ⚡ Fun facts:
   - My undergraduate majors were Mandarin Chinese Language & Literature and International Relations! I've spent time working and studying in Hangzhou, Beijing, and Xi'an. I love to connect with others over travel, food, the outdoors.
-  - I am a huge rugby union fan and still play locally in my area. I also support the Baltimore Ravens and Baltimore Orioles!
+  - I am a huge rugby union fan. I also support the Baltimore Ravens and Baltimore Orioles!
 
