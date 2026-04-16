@@ -9,11 +9,9 @@ I am a current Master's in Data Science graduate student at Duke University.
 - A project analyzing potential interventions to alleviate food insecurity among young people in North Carolina.
 - I'm currently taking courses on Natural Language Processing and Data Visualization.
 ### 🌱 I’m currently learning:
-- Python (pandas, matplotlib, seaborn, statsmodels, manipulating GIS data with GeoPandas)
-- SQL (and integration with Databricks and AWS)
-- Rust
+- Implementing AI-driven search (RAG) and BERT-based topic modeling and named entity recognition for text analysis and retrieval
 - Data Engineering and DevOps (Creating ETL workflows, implementing CI/CD pipelines, utilizing GitHub Actions)
-- Statistical Modeling in R (tidyverse, multiple linear regression, t-tests, and A/B testing)
+- Statistical Modeling in R & Python (tidyverse, multiple linear regression, t-tests, and A/B testing)
 
 ### :notebook: My previous experiences:
 - I spent five years as a Researcher and Data Analyst at the Center for Information & Research on Civic Learning and Engagement (CIRCLE) at the Jonathan M. Tisch College of Civic Life. At CIRCLE, I evaluated non-partisan voter registration campaigns using R and Tableau to inform non-profit investment. I also designed national surveys to investigate youth political attitudes and political participation among American youth.
