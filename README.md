@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-### 📫 Please reach out to me at peter.deguzman@duke.edu!
-
-I am a current Master's in Data Science graduate student at Duke University.
+I am a recent graduate of the Master's in Interdisciplinary Data Science program at Duke University.
 
 ### 🔭 I’m currently working on:  
 - An article with the Department of Political Science analyzing social media data on emerging trends in youth political participation and political polarization 
